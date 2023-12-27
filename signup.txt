@@ -1,0 +1,2 @@
+users can signup with their name,email and passwaord
+users can signup with fingerprints
